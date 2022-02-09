@@ -11,7 +11,7 @@ Exam Resources for ESI Program Students
 - [Azure Architecture Center](https://www.aka.ms/architecture "Azure Architecture Center")
 - [Certification Poster](https://www.aka.ms/TrainCertPoster "Certification Poster")
 - [Microsoft Docs](https://www.aka.ms/Docs "Microsoft Docs")
-- 
+
 ## Microsoft ESI program resources
 - [ESI customer portal](https://esi.microsoft.com/)
 - [ESI support](https://esisupport.microsoft.com/)
@@ -24,7 +24,7 @@ Exam Resources for ESI Program Students
     - [AZ-400](aka.ms/az204labs)
     - [AI-102](aka.ms/ai102labs)
 - [Azure Pass Susbcriptions Balance](https://www.microsoftazuresponsorships.com/balance)
-  > Note: Valid for 1 month
+  > Note: Valid for 1 month and/or 100$
 
 ## Exam Preparation & Renewal Material
 - [Exam Registration Video](https://aka.ms/LxPExamDiscountVideo)
