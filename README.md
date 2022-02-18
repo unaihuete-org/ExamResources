@@ -17,7 +17,7 @@ Exam Resources for ESI Program Students
 - [ESI support](https://esisupport.microsoft.com/)
 
 ## Course Provided Material
-- Hosted Lab VM: https://esi.learnondemand.net/
+- Hosted Lab VM: https://esi.learnondemand.net/ 
   > Note: activated for 6 Months 
 - Lab Instructions
     - [AZ-204](aka.ms/az400labs)
