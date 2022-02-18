@@ -13,13 +13,13 @@ Exam Resources for ESI Program Students
 - [Microsoft Docs](https://www.aka.ms/Docs "Microsoft Docs")
 
 ## Microsoft ESI program resources
-- [ESI customer portal](https://esi.microsoft.com/)
-- [ESI support](https://esisupport.microsoft.com/)
+- Learner experience portal: [ESI customer portal](https://esi.microsoft.com/)
+- Need to ask question about the program? Open a Ticket? [ESI support](https://esisupport.microsoft.com/)
 
 ## Course Provided Material
 - Hosted Lab VM: https://esi.learnondemand.net/ 
   > Note: activated for 6 Months 
-- Lab Instructions
+- Lab Instructions (no expiration)
     - [AZ-204](aka.ms/az400labs)
     - [AZ-400](aka.ms/az204labs)
     - [AI-102](aka.ms/ai102labs)
@@ -27,12 +27,13 @@ Exam Resources for ESI Program Students
   > Note: Valid for 1 month and/or 100$
 
 ## Exam Preparation & Renewal Material
-- [Exam Registration Video](https://aka.ms/LxPExamDiscountVideo)
-- [ESI Study Guides](https://aka.ms/ESIStudyGuides) for various exams
-- [Learning Path recommendation](https://aka.ms/AzureTrainCertDeck)
+- **VIDEO** How to register for the exams: [Exam Registration Video](https://aka.ms/LxPExamDiscountVideo)
+  > Note: how many times can I take it? It depends on the customer´s ESI program, ask internally.
+- Study Guides for all exams: [ESI Study Guides](https://aka.ms/ESIStudyGuides) 
+- Learning Path for all exams:  [Learning Path recommendation](https://aka.ms/AzureTrainCertDeck)
 
-- [Microsoft Exam Question Types](https://docs.microsoft.com/en-us/learn/certifications/exam-duration-question-types#question-types-on-exams)
-- [Microsoft Exam Environment Demo](http://aka.ms/examdemo)
+- What is the duration of the exam? What kind of questions can I get? [Microsoft Exam Question Types](https://docs.microsoft.com/en-us/learn/certifications/exam-duration-question-types#question-types-on-exams)
+- How does the exam enviroment/tool look like? [Microsoft Exam Environment Demo](http://aka.ms/examdemo)
 - [Renew your Microsoft Certification](https://docs.microsoft.com/en-us/learn/certifications/renew-your-microsoft-certification)
 - [Renewal Process video](https://www.youtube.com/watch?v=ttuhmFHOTU8&feature=youtu.be)
 - [Take the exam at home](https://www.thomasmaurer.ch/2020/03/how-to-take-a-microsoft-certification-exam-online/)
