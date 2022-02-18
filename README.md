@@ -28,7 +28,8 @@ Exam Resources for ESI Program Students
 
 ## Exam Preparation & Renewal Material
 - **VIDEO** How to register for the exams: [Exam Registration Video](https://aka.ms/LxPExamDiscountVideo)
-  > Note: how many times can I take it? It depends on the customer´s ESI program, ask internally.
+  > Note: How many vouchers do I have? It depends on the customer´s ESI program, ask internally.
+- Exam retake policy : [Retake policy](https://docs.microsoft.com/en-us/learn/certifications/exam-retake-policy#general-microsoft-certification-exam-retake-policy)
 - Study Guides for all exams: [ESI Study Guides](https://aka.ms/ESIStudyGuides) 
 - Learning Path for all exams:  [Learning Path recommendation](https://aka.ms/AzureTrainCertDeck)
 
