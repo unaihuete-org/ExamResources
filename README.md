@@ -14,6 +14,9 @@ Exam Resources for ESI Program Students
 
 ## Microsoft ESI program resources
 - Learner experience portal: [ESI customer portal](https://esi.microsoft.com/)
+    - **Practise Exams**
+    ![image](https://user-images.githubusercontent.com/64772417/154690459-9113ee7e-e39b-454f-8b4c-e61b400400b9.png)
+
 - Need to ask question about the program? Open a Ticket? [ESI support](https://esisupport.microsoft.com/)
 
 ## Course Provided Material
